@@ -33,7 +33,20 @@ int main(){
 	//	}
 	//}
 	//cout << max;
-
+	
+	
+//Minimum101:
+//	long double min = 1e18; //high dummy value
+//	int checkIfMin;
+//	long long until;
+//	cin >> checkIfMin;
+//	cin >> until;
+//	for(int i = 0; i<until; i++){
+//		if(checkIfMin<min){
+//			min = checkIfMin;
+//		}
+//	}
+//	cout << checkIfMin;
 
 
 
