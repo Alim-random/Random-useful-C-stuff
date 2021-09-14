@@ -16,7 +16,7 @@ int main(){
 * Maximum101
 * Minimum101
 * Sorting101
-* 
+* Finding GCD 101
 */
 
 	
@@ -49,5 +49,24 @@ int main(){
 //	cout << checkIfMin;
 
 
+	
+//Finding GCD 101
+// int minimum = 108, maximum = 810;
+// int remainder = 1e9+1;
+
+// while(remainder != 0){
+// 	minimum = min(minimum, maximum);
+// 	maximum = max(minimum, maximum);
+// 	remainder = maximum%minimum;
+// 	maximum = minimum;
+// 	if(remainder == 0){
+// 		break;
+// 	}
+// 	minimum = remainder;
+// }
+// cout << minimum;
+	
+	
+	
 
 }
